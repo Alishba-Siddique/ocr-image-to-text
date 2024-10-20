@@ -35,7 +35,7 @@ To get started with the project, follow these steps:
 3. **Run the application:**
    Start the development server with:
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. **Open your browser:**
