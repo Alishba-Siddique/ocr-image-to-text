@@ -5,7 +5,7 @@ This project is a React component that utilizes Tesseract.js for Optical Charact
 
 ## Preview
 
-![ocr](https://github.com/user-attachments/assets/bdf6ddd9-ba7b-4e15-9137-a822ed1bb49c)
+(https://github.com/user-attachments/assets/bdf6ddd9-ba7b-4e15-9137-a822ed1bb49c)
 
 
 
@@ -22,7 +22,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [<repository-url>](https://github.com/Alishba-Siddique/ocr-image-to-text.git)
+   git clone (https://github.com/Alishba-Siddique/ocr-image-to-text.git)
    cd ocr-image-to-text
    ```
 
