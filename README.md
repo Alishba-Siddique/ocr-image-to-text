@@ -1,4 +1,4 @@
-```markdown
+
 # OCR with Multiple Languages
 
 This project is a React component that utilizes Tesseract.js for Optical Character Recognition (OCR) to extract text from images in multiple languages. Users can upload an image, select the language of the text, and extract the text for further use.
