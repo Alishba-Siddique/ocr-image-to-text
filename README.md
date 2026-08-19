@@ -5,7 +5,7 @@ This project is a React component that utilizes Tesseract.js for Optical Charact
 
 ## Preview
 
-(https://github.com/user-attachments/assets/bdf6ddd9-ba7b-4e15-9137-a822ed1bb49c)
+
 
 
 
