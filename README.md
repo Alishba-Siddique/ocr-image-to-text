@@ -5,7 +5,7 @@ This project is a React component that utilizes Tesseract.js for Optical Charact
 
 ## Preview
 
-<img width="1722" height="1481" alt="378200955-bdf6ddd9-ba7b-4e15-9137-a822ed1bb49c" src="https://github.com/user-attachments/assets/61b3c0d2-3c34-41ed-b412-3a6d2574ea2b" />
+<a href="https://ocr-image-to-text.netlify.app/"><img width="1722" height="1481" alt="378200955-bdf6ddd9-ba7b-4e15-9137-a822ed1bb49c" src="https://github.com/user-attachments/assets/61b3c0d2-3c34-41ed-b412-3a6d2574ea2b" /></a>
 
 ## Features
 
